@@ -125,11 +125,9 @@
                 <Label Grid.Row="1"
                     Name="exResultLbl"
                     Foreground="Gray"
-                       HorizontalContentAlignment="Right"
-                       VerticalContentAlignment="Center"
-                       FontSize="26"
-                       >
-                </Label>
+                    HorizontalContentAlignment="Right"
+                    VerticalContentAlignment="Center"
+                    FontSize="26"/>
             </Grid>
             <TextBox Name="resultTxt"
                      Text="0"
